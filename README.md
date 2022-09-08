@@ -29,8 +29,8 @@ Ao executar o comando acima, o container deve imprimir uma mensagem no seu termi
 Code.education Rocks!
 ```
 
-## 3 - Criando o container a partir de uma imagem do docker hub
-Para criar um container a partir de uma imagem do docker hub, execute o comando abaixo
+## 3 - Criando o container a partir de uma imagem do dockerhub
+Para criar um container a partir de uma imagem do dockerhub, execute o comando abaixo
 ```bash
 $ docker run --rm gubsocosta/codeeducation
 ```
@@ -38,3 +38,6 @@ Ao executar o comando acima, o container deve imprimir uma mensagem no seu termi
 ```bash
 Code.education Rocks!
 ```
+
+## Apêndice
+- Imagem no docker hub: [link](https://hub.docker.com/repository/docker/gubsocosta/codeeducation)
